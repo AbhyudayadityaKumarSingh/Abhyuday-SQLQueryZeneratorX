@@ -68,6 +68,10 @@ This project was designed to simplify SQL query testing and learning by providin
 
    The application will start at [http://localhost:3000](http://localhost:3000).
 
+## Live Demo
+
+Check out the deployed version of the application at: [https://abhyuday-sql-query-zenerator-x.vercel.app/](https://abhyuday-sql-query-zenerator-x.vercel.app/)
+
 ## Performance & Optimizations
 
 - **Page Load Time:**  

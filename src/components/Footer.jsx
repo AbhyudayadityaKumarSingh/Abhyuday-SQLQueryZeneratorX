@@ -14,7 +14,7 @@ const Footer = () => {
             color: "#fff"
         }}>
             <p>&copy; 2025 Dummy SQL App</p>
-            <p>Created by <a href="https://www.example.com" style={{ color: "#fff" }}>Abhyudayaditya Kumar Singh</a></p>
+            <p>Created by Abhyudayaditya Kumar Singh</p>
         </footer>
     );
 };
